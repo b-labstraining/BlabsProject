@@ -1,5 +1,6 @@
 <?php
-
+//test change
+// print "Hello"
 session_start();
 require "global_func.php";
 if ($_SESSION['loggedin'] == 0)
