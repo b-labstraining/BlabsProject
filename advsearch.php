@@ -1,4 +1,6 @@
 <?php
+//Added comments by B Labs
+//This is small change
 
 session_start();
 require "global_func.php";
